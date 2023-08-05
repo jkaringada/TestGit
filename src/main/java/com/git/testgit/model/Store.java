@@ -10,4 +10,5 @@ public class Store {
     private long storeId;
     private String storeName;
     private String postCode;
+    private String geo;
 }

@@ -11,4 +11,5 @@ public class Product {
     private String productCode;
     private String brand;
     private Store store;
+    private String size;
 }
